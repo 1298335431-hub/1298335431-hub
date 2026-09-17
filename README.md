@@ -14,7 +14,7 @@
 <p><strong>一张照片，三种创意。</strong></p>
 <p>邀请制 AI 图片创作与轻社交产品。上传照片后生成不同风格，选定一张成片，再用自然语言优化，生成可编辑的分享内容。</p>
 <p><strong>设计重点</strong><br>把图片识别、风格选择、反馈修改和分享衔接成清楚的创作流程。</p>
-<p><a href="https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/"><strong>内测体验 ↗</strong></a> · 需邀请码</p>
+<p><a href="https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/"><strong>内测体验 ↗</strong></a> · <a href="https://github.com/1298335431-hub/tietie">项目源码</a> · 需邀请码</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/"><img src="https://raw.githubusercontent.com/1298335431-hub/lucidream/main/docs/images/demo-cover.png" width="100%" alt="看山说梦的实际梦卡制作界面" /></a>
