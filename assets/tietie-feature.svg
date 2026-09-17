@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="224" viewBox="0 0 1120 224" role="img" aria-labelledby="title desc">
+  <title id="title">01 贴贴 Tietie · AI 图片创作</title>
+  <desc id="desc">米白色项目封面，右侧用两张叠放的风景卡片表现照片创作。</desc>
+  <defs>
+    <clipPath id="photo"><rect x="15" y="15" width="105" height="108" rx="3"/></clipPath>
+  </defs>
+  <rect width="1120" height="224" rx="12" fill="#F3F3EE"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#686E63">01 / AI IMAGE CREATION</text>
+    <text x="40" y="121" font-size="51" font-weight="600" fill="#242B23">贴贴</text>
+    <text x="164" y="119" font-size="24" fill="#6E7569" font-family="Georgia,'Times New Roman',serif" font-style="italic">Tietie</text>
+    <text x="42" y="172" font-size="18" fill="#626C5B">照片创作 · 风格生成 · 自然语言修改</text>
+  </g>
+  <path d="M763 32V192" stroke="#D8DDD1"/>
+  <g transform="translate(816 28) rotate(-10 68 80)">
+    <rect width="136" height="164" rx="9" fill="#DEDCCD"/>
+    <rect width="133" height="160" rx="9" fill="#FFFEF7" stroke="#D5D5C9"/>
+    <g clip-path="url(#photo)">
+      <rect x="15" y="15" width="105" height="108" fill="#E6E5D6"/>
+      <circle cx="86" cy="43" r="15" fill="#D8B45E"/>
+      <path d="M10 88Q40 56 81 102L124 106V130H10Z" fill="#A6B28F"/>
+      <path d="M10 115Q67 63 125 70V130H10Z" fill="#526A4C"/>
+    </g>
+    <path d="M47 142H86" stroke="#DBDCCF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(912 39) rotate(9 66 80)">
+    <rect x="3" y="4" width="133" height="160" rx="9" fill="#DDDED4"/>
+    <rect width="133" height="160" rx="9" fill="#FFFEF7" stroke="#D5D5C9"/>
+    <g clip-path="url(#photo)">
+      <rect x="15" y="15" width="105" height="108" fill="#C9DADC"/>
+      <path d="M43 62C40 48 50 40 61 43C65 29 88 32 88 47C108 42 114 62 100 67H52Z" fill="#FAFAF1"/>
+      <path d="M15 102Q75 70 120 85V125H15Z" fill="#6E8B70"/>
+      <path d="M78 79C97 97 75 99 65 110L120 124H120V106C90 103 115 93 101 81Z" fill="#EEE6CD"/>
+    </g>
+    <path d="M47 142H86" stroke="#DBDCCF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

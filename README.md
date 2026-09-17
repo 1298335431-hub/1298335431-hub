@@ -1,47 +1,39 @@
-[![白一帆 · AI 产品经理](./assets/ai-product-portfolio.svg)](https://1298335431-hub.github.io/laobai-Personal-website/)
+<sub>BAI YIFAN / PRODUCT PORTFOLIO</sub>
 
-<p align="center">
-<a href="https://1298335431-hub.github.io/laobai-Personal-website/"><strong>浏览完整作品集 ↗</strong></a>　 · 　<a href="mailto:1298335431@qq.com">联系我 ↗</a>
-</p>
+# 白一帆
 
-## 01　个人项目
+**AI 产品经理** · 关注 AI 创作工具与日常表达。
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/"><img src="./assets/tietie-project.svg" width="100%" alt="贴贴产品流程示意：一张照片，三种风格，选择与优化后分享" /></a>
-<h3>贴贴 · Tietie</h3>
-<p><strong>一张照片，三种创意。</strong></p>
-<p>邀请制 AI 图片创作与轻社交产品。上传照片后生成不同风格，选定一张成片，再用自然语言优化，生成可编辑的分享内容。</p>
-<p><strong>设计重点</strong><br>把图片识别、风格选择、反馈修改和分享衔接成清楚的创作流程。</p>
-<p><a href="https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/"><strong>内测体验 ↗</strong></a> · <a href="https://github.com/1298335431-hub/tietie">项目源码</a> · 需邀请码</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/"><img src="https://raw.githubusercontent.com/1298335431-hub/lucidream/main/docs/images/demo-cover.png" width="100%" alt="看山说梦的实际梦卡制作界面" /></a>
-<h3>看山说梦 · LUCIDREAM</h3>
-<p><strong>把梦境，留作一张卡。</strong></p>
-<p>AI 梦境解读与梦卡创作产品。记录醒来时的片段，确认梦象，再生成参考性解读与梦卡，支持下载和分享准备。</p>
-<p><strong>设计重点</strong><br>先让用户校正梦象，再进入生成；用梦卡承接记录、自我表达与分享。</p>
-<p><a href="https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/"><strong>在线体验 ↗</strong></a> · <a href="https://github.com/1298335431-hub/lucidream">项目源码</a></p>
-</td>
-</tr>
-</table>
+这里是我的两个产品，以及研究、学习和写作中积累的 AI 工作流。
 
-## 02　工具与实践
+[完整作品集 ↗](https://1298335431-hub.github.io/laobai-Personal-website/)　 [邮件联系 ↗](mailto:1298335431@qq.com)
 
-把研究和学习中的重复任务，整理成有明确输入、步骤与输出的 Skills。
+## 个人项目
 
-| 实践 | 设计思路 | 查看 |
-| :--- | :--- | :--- |
-| **竞品研究** | 澄清用户与场景 → 核验竞品信息 → 形成对比与建议 | [研究工作流](https://github.com/1298335431-hub/Skills/tree/main/competitive-analysis) |
-| **英语陪练** | 双语解释 → 情境练习 → 逐轮反馈与迁移 | [学习工作流](https://github.com/1298335431-hub/learn-spoken-english) |
-| **中文写作** | 检查材料 → 组织表达 → 事实与文本规则复核 | [写作流程](https://github.com/1298335431-hub/Skills/tree/main/human-writing-editorial) · [Python 检查器](https://github.com/1298335431-hub/Skills/blob/main/human-writing-editorial/scripts/check_prose.py) |
+[![01 贴贴 Tietie · AI 图片创作](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
 
-[**浏览 Skills 工具集 →**](https://github.com/1298335431-hub/Skills)
+**贴贴**让一张照片变成不同风格的作品，再用自然语言修改，整理成可编辑的图文分享内容。
 
----
+产品重点：用三种明确的风格降低创作门槛，保留生成之后的选择与修改。
 
-**白一帆 · AI 产品经理**  
-关注具体的用户场景、清楚的交互路径，以及能够体验和验证的交付物。
+[查看源码 ↗](https://github.com/1298335431-hub/tietie)　 [内测体验 ↗](https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/) <sub>需邀请码</sub>
 
-欢迎交流产品实践与工作机会。**[1298335431@qq.com](mailto:1298335431@qq.com)**
+<br>
+
+[![02 看山说梦 LUCIDREAM · AI 梦境记录与梦卡](./assets/lucidream-feature.svg)](https://github.com/1298335431-hub/lucidream)
+
+**看山说梦**把零散的梦境片段，整理成可确认的梦象、参考性解读与一张可以保存的梦卡。
+
+产品重点：先让用户确认梦象，再进入解读与生成，让记录自然走向表达。
+
+[查看源码 ↗](https://github.com/1298335431-hub/lucidream)　 [在线体验 ↗](https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/)
+
+## 工具与实践
+
+- [**竞品研究**](https://github.com/1298335431-hub/Skills/tree/main/competitive-analysis) · 从问题澄清、资料核验到竞品对比。
+- [**英语陪练**](https://github.com/1298335431-hub/learn-spoken-english) · 双语解释、情境练习与逐轮反馈。
+- [**中文写作**](https://github.com/1298335431-hub/Skills/tree/main/human-writing-editorial) · 材料检查、表达整理与文本规则复核。
+
+<br>
+
+<sub>欢迎交流产品实践与工作机会 · <a href="mailto:1298335431@qq.com">1298335431@qq.com</a> · <a href="https://github.com/1298335431-hub/Skills">更多 Skills ↗</a></sub>

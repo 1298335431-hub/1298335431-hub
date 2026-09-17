@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="224" viewBox="0 0 1120 224" role="img" aria-labelledby="title desc">
+  <title id="title">02 看山说梦 LUCIDREAM · AI 梦境记录与梦卡</title>
+  <desc id="desc">浅灰紫色项目封面，右侧用月亮、山与纸页表现梦境记录。</desc>
+  <rect width="1120" height="224" rx="12" fill="#F1F0F5"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#746D83">02 / DREAM JOURNAL</text>
+    <text x="40" y="121" font-size="51" font-weight="600" fill="#302B3B">看山说梦</text>
+    <text x="276" y="119" font-size="22" fill="#80788D" font-family="Georgia,'Times New Roman',serif" letter-spacing="2">LUCIDREAM</text>
+    <text x="42" y="172" font-size="18" fill="#777080">梦境记录 · 梦象确认 · 梦卡创作</text>
+  </g>
+  <path d="M763 32V192" stroke="#DCD8E5"/>
+  <g transform="translate(847 24) rotate(-7 75 87)">
+    <rect x="1" y="4" width="151" height="176" rx="7" fill="#DCD8E5"/>
+    <rect width="150" height="174" rx="7" fill="#E8E5EE" stroke="#D0CADB"/>
+    <path d="M24 42H118M24 55H107M24 68H116" stroke="#C5BECE" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(899 27) rotate(7 75 87)">
+    <rect x="2" y="3" width="151" height="176" rx="7" fill="#DCD8E5"/>
+    <rect width="150" height="174" rx="7" fill="#FDFBFF" stroke="#D0CADB"/>
+    <path d="M20 117V72A55 55 0 0 1 130 72V117Z" fill="#DDD8E9"/>
+    <path d="M20 117L57 74L91 117Z" fill="#9B8FAF"/>
+    <path d="M71 117L105 84L130 109V117Z" fill="#B4A9C6"/>
+    <path d="M99 40A16 16 0 1 1 78 62A18 18 0 0 0 99 40Z" fill="#FFFCF0"/>
+    <path d="M32 140H118M48 151H102" stroke="#D5CEDF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
