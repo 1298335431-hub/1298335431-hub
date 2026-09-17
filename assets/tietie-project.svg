@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+<title id="title">贴贴 Tietie · 产品流程示意</title><desc id="desc">上传一张照片，生成Q版贴纸、毛毡黏土和潮玩盲盒三种风格，选定后优化与分享。</desc>
+<rect width="800" height="500" fill="#EFF0FC"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+<text x="44" y="63" font-size="17" fill="#6655BA" font-weight="600">贴贴 / TIETIE</text><text x="756" y="61" text-anchor="end" font-size="12" fill="#8D86A7">产品流程示意</text>
+<text x="44" y="122" font-size="38" fill="#252138" font-weight="650">一张照片，三种创意。</text>
+<g transform="translate(44,163)"><rect width="222" height="167" rx="15" fill="#FDF6D9"/><circle cx="43" cy="42" r="18" fill="#E9C655"/><text x="43" y="47" text-anchor="middle" font-size="12" fill="#564414">01</text><text x="23" y="107" font-size="24" font-weight="600" fill="#5A4B1E">Q 版贴纸</text><text x="23" y="138" font-size="13" fill="#8A7A46">轻巧 · 俏皮 · 易表达</text></g>
+<g transform="translate(289,163)"><rect width="222" height="167" rx="15" fill="#E4EEE6"/><circle cx="43" cy="42" r="18" fill="#7BAA84"/><text x="43" y="47" text-anchor="middle" font-size="12" fill="#fff">02</text><text x="23" y="107" font-size="24" font-weight="600" fill="#315A3D">毛毡黏土</text><text x="23" y="138" font-size="13" fill="#66846D">柔软 · 立体 · 有质感</text></g>
+<g transform="translate(534,163)"><rect width="222" height="167" rx="15" fill="#E4DCFA"/><circle cx="43" cy="42" r="18" fill="#9171D7"/><text x="43" y="47" text-anchor="middle" font-size="12" fill="#fff">03</text><text x="23" y="107" font-size="24" font-weight="600" fill="#554074">潮玩盲盒</text><text x="23" y="138" font-size="13" fill="#89729E">微缩 · 收藏 · 小世界</text></g>
+<path d="M44 367H756" stroke="#D6D4E8"/>
+<text x="44" y="416" font-size="17" fill="#5A536F">上传照片</text><text x="160" y="416" font-size="18" fill="#9C93B7">→</text><text x="207" y="416" font-size="17" fill="#5A536F">三种风格</text><text x="322" y="416" font-size="18" fill="#9C93B7">→</text><text x="369" y="416" font-size="17" fill="#5A536F">选择与优化</text><text x="502" y="416" font-size="18" fill="#9C93B7">→</text><text x="549" y="416" font-size="17" fill="#5A536F">生成分享内容</text>
+<text x="44" y="465" font-size="12" fill="#9189A5">AI 图片创作 × 轻社交</text></g></svg>

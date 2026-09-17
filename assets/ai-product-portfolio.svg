@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">白一帆 · AI 产品经理</title>
+<desc id="desc">从用户问题出发，把想法做成可用的产品。产品体验、Agent 工作流与项目实践。</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#D1D9EC"/></pattern></defs>
+<rect width="1280" height="380" rx="18" fill="#F4F5F0"/>
+<rect x="32" y="32" width="1216" height="316" rx="10" fill="white"/>
+<path d="M750 32H1238Q1248 32 1248 42V338Q1248 348 1238 348H750Z" fill="#3157E8"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+<rect x="70" y="72" width="9" height="9" rx="2" fill="#3157E8"/>
+<text x="91" y="82" font-size="15" font-weight="600" letter-spacing="2" fill="#3157E8">AI PRODUCT MANAGER</text>
+<text x="66" y="181" font-size="70" font-weight="650" letter-spacing="2" fill="#1B2434">白一帆<tspan dx="24" font-size="26" font-weight="400" letter-spacing="0" fill="#7A8290">Bai Yifan</tspan></text>
+<text x="70" y="237" font-size="26" font-weight="500" fill="#384256">把想法做成可用的产品。</text>
+<path d="M70 271H675" stroke="#E1E5ED"/>
+<text x="70" y="312" font-size="15" fill="#707989">产品体验</text><circle cx="153" cy="307" r="2" fill="#A8B0BE"/><text x="174" y="312" font-size="15" fill="#707989">Agent 工作流</text><circle cx="283" cy="307" r="2" fill="#A8B0BE"/><text x="304" y="312" font-size="15" fill="#707989">项目实践</text>
+<text x="798" y="83" font-size="12" letter-spacing="2" fill="#CBD5FF">FROM PROBLEM TO PRODUCT</text>
+<path d="M819 136V277" stroke="#7690FA" stroke-width="1.5"/>
+<g fill="#fff"><circle cx="819" cy="141" r="14"/><circle cx="819" cy="205" r="14"/><circle cx="819" cy="269" r="14"/></g>
+<g fill="#3157E8" font-size="12" font-weight="700" text-anchor="middle"><text x="819" y="145">01</text><text x="819" y="209">02</text><text x="819" y="273">03</text></g>
+<g fill="white" font-size="21" font-weight="500"><text x="854" y="149">理解用户的问题</text><text x="854" y="213">设计清楚的体验</text><text x="854" y="277">交付可用的作品</text></g>
+<path d="M1174 280V308H1146M1174 308L1139 273" fill="none" stroke="#9CAFFC" stroke-width="2"/>
+</g></svg>
