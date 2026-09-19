@@ -20,11 +20,11 @@
 
 <br>
 
-[![02 MeetingPrep · AI 会前准备工作台](./assets/meetingprep-feature.svg)](https://github.com/1298335431-hub/meeting-prep)
+[![02 MeetingPrep · AI 会前准备工作台](./assets/meetingprep-feature-prep.svg)](https://github.com/1298335431-hub/meeting-prep)
 
-**MeetingPrep**把 PRD、历史讨论和日历信息整理成可核对原文的会前 Brief，帮助团队更快了解背景、分歧与待决问题。
+**MeetingPrep**是一款会前准备工具。用户选择会议模板，导入 PRD 和历史记录后，生成结构化会前 Brief，让参会者提前了解会议背景和讨论方向。
 
-产品重点：支持飞书文档与日历只读接入，用来源、行号和原文引文降低 AI 整理结果的核对成本。
+产品重点：用会议模板统一准备框架，把分散资料整理成会前可读、可核对的背景与议题，减少会议现场补课和信息对齐时间。
 
 [查看源码 ↗](https://github.com/1298335431-hub/meeting-prep)　 [在线体验 ↗](https://s5gpjstgrhrpqd54s6976.apigateway-cn-beijing.volceapi.com/) <sub>需邀请码</sub>
 

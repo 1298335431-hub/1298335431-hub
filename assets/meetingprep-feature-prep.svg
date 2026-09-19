@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="224" viewBox="0 0 1120 224" role="img" aria-labelledby="title desc">
   <title id="title">02 MeetingPrep · AI 会前准备工作台</title>
-  <desc id="desc">浅蓝色项目封面，右侧用日历、会议资料和引用标记表现会前准备。</desc>
+  <desc id="desc">浅蓝色项目封面，右侧用会议模板和资料卡片表现会前背景梳理与讨论方向准备。</desc>
   <rect width="1120" height="224" rx="12" fill="#EEF2FB"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
     <text x="42" y="43" font-size="14" letter-spacing="2" fill="#60719B">02 / MEETING PREPARATION</text>
     <text x="40" y="121" font-size="48" font-weight="650" fill="#202B45">MeetingPrep</text>
-    <text x="42" y="172" font-size="18" fill="#5E6D8E">PRD 评审 · 日历准备 · 来源核验</text>
+    <text x="42" y="172" font-size="18" fill="#5E6D8E">会议模板 · 背景梳理 · 讨论方向</text>
   </g>
   <path d="M763 32V192" stroke="#D4DCEF"/>
   <g transform="translate(825 30)">
