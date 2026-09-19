@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="224" viewBox="0 0 1120 224" role="img" aria-labelledby="title desc">
-  <title id="title">02 看山说梦 LUCIDREAM · AI 梦境记录与梦卡</title>
+  <title id="title">01 梦卡 DREAMCARD · AI 梦境记录与梦卡</title>
   <desc id="desc">浅灰紫色项目封面，右侧用月亮、山与纸页表现梦境记录。</desc>
   <rect width="1120" height="224" rx="12" fill="#F1F0F5"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
-    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#746D83">02 / DREAM JOURNAL</text>
-    <text x="40" y="121" font-size="51" font-weight="600" fill="#302B3B">看山说梦</text>
-    <text x="276" y="119" font-size="22" fill="#80788D" font-family="Georgia,'Times New Roman',serif" letter-spacing="2">LUCIDREAM</text>
+    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#746D83">01 / DREAM JOURNAL</text>
+    <text x="40" y="121" font-size="51" font-weight="600" fill="#302B3B">梦卡</text>
+    <text x="164" y="119" font-size="22" fill="#80788D" font-family="Georgia,'Times New Roman',serif" letter-spacing="2">DREAMCARD</text>
     <text x="42" y="172" font-size="18" fill="#777080">梦境记录 · 梦象确认 · 梦卡创作</text>
   </g>
   <path d="M763 32V192" stroke="#DCD8E5"/>

@@ -4,29 +4,39 @@
 
 **AI 产品经理** · 关注 AI 创作工具与日常表达。
 
-这里是我的两个产品，以及研究、学习和写作中积累的 AI 工作流。
+这里是我的三个产品，以及研究、学习和写作中积累的 AI 工作流。
 
 [完整作品集 ↗](https://1298335431-hub.github.io/laobai-Personal-website/)　 [邮件联系 ↗](mailto:1298335431@qq.com)
 
 ## 个人项目
 
-[![01 贴贴 Tietie · AI 图片创作](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
+[![01 梦卡 DREAMCARD · AI 梦境记录与梦卡](./assets/lucidream-feature.svg)](https://github.com/1298335431-hub/lucidream)
+
+**梦卡**（原「看山说梦」）曾作为作品参加知乎活动，把零散的梦境片段整理成可确认的梦象、参考性解读与一张可以保存的梦卡。
+
+产品重点：先让用户确认梦象，再进入解读与生成，让记录自然走向表达。
+
+[查看源码 ↗](https://github.com/1298335431-hub/lucidream)　 [在线体验 ↗](https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/)
+
+<br>
+
+[![02 MeetingPrep · AI 会前准备工作台](./assets/meetingprep-feature.svg)](https://github.com/1298335431-hub/meeting-prep)
+
+**MeetingPrep**把 PRD、历史讨论和日历信息整理成可核对原文的会前 Brief，帮助团队更快了解背景、分歧与待决问题。
+
+产品重点：支持飞书文档与日历只读接入，用来源、行号和原文引文降低 AI 整理结果的核对成本。
+
+[查看源码 ↗](https://github.com/1298335431-hub/meeting-prep)　 [在线体验 ↗](https://s5gpjstgrhrpqd54s6976.apigateway-cn-beijing.volceapi.com/) <sub>需邀请码</sub>
+
+<br>
+
+[![03 贴贴 Tietie · AI 图片创作](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
 
 **贴贴**让一张照片变成不同风格的作品，再用自然语言修改，整理成可编辑的图文分享内容。
 
 产品重点：用三种明确的风格降低创作门槛，保留生成之后的选择与修改。
 
 [查看源码 ↗](https://github.com/1298335431-hub/tietie)　 [内测体验 ↗](https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/) <sub>需邀请码</sub>
-
-<br>
-
-[![02 看山说梦 LUCIDREAM · AI 梦境记录与梦卡](./assets/lucidream-feature.svg)](https://github.com/1298335431-hub/lucidream)
-
-**看山说梦**把零散的梦境片段，整理成可确认的梦象、参考性解读与一张可以保存的梦卡。
-
-产品重点：先让用户确认梦象，再进入解读与生成，让记录自然走向表达。
-
-[查看源码 ↗](https://github.com/1298335431-hub/lucidream)　 [在线体验 ↗](https://seoshulk2a6fn66jib6rs.apigateway-cn-beijing.volceapi.com/)
 
 ## 工具与实践
 
