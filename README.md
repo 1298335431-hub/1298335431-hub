@@ -30,7 +30,7 @@
 
 <br>
 
-[![03 贴贴 Tietie · AI 图片创作](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
+[![03 贴贴 Tietie · Skill 驱动的图片社交](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
 
 **贴贴**是一个以图片作品为社交媒介的轻社交产品。用户先选择开源 Skill 完成创作与修改，再通过作品分享和“碰一碰”产生互动。
 

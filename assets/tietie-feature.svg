@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="224" viewBox="0 0 1120 224" role="img" aria-labelledby="title desc">
-  <title id="title">03 贴贴 Tietie · AI 图片创作</title>
-  <desc id="desc">米白色项目封面，右侧用两张叠放的风景卡片表现照片创作。</desc>
+  <title id="title">03 贴贴 Tietie · Skill 驱动的图片社交</title>
+  <desc id="desc">米白色项目封面，右侧用两张作品卡片和互动节点表现以图片建立轻社交关系。</desc>
   <defs>
     <clipPath id="photo"><rect x="15" y="15" width="105" height="108" rx="3"/></clipPath>
   </defs>
   <rect width="1120" height="224" rx="12" fill="#F3F3EE"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
-    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#686E63">03 / AI IMAGE CREATION</text>
+    <text x="42" y="43" font-size="14" letter-spacing="2" fill="#686E63">03 / SKILL-DRIVEN IMAGE SOCIAL</text>
     <text x="40" y="121" font-size="51" font-weight="600" fill="#242B23">贴贴</text>
     <text x="164" y="119" font-size="24" fill="#6E7569" font-family="Georgia,'Times New Roman',serif" font-style="italic">Tietie</text>
-    <text x="42" y="172" font-size="18" fill="#626C5B">照片创作 · 风格生成 · 自然语言修改</text>
+    <text x="42" y="172" font-size="18" fill="#626C5B">Skill 创作 · 作品分享 · 碰一碰互动</text>
   </g>
   <path d="M763 32V192" stroke="#D8DDD1"/>
   <g transform="translate(816 28) rotate(-10 68 80)">
@@ -33,5 +33,12 @@
       <path d="M78 79C97 97 75 99 65 110L120 124H120V106C90 103 115 93 101 81Z" fill="#EEE6CD"/>
     </g>
     <path d="M47 142H86" stroke="#DBDCCF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(894 90)" aria-hidden="true">
+    <circle cx="22" cy="22" r="22" fill="#3158E7"/>
+    <circle cx="15" cy="22" r="4" fill="#FFFFFF"/>
+    <circle cx="29" cy="22" r="4" fill="#FFFFFF"/>
+    <path d="M19 22H25" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M8 12C3 17 3 27 8 32M36 12C41 17 41 27 36 32" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity=".78"/>
   </g>
 </svg>
