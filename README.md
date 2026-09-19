@@ -6,7 +6,7 @@
 
 这里是我的三个产品，以及研究、学习和写作中积累的 AI 工作流。
 
-[完整作品集 ↗](https://1298335431-hub.github.io/laobai-Personal-website/)　 [邮件联系 ↗](mailto:1298335431@qq.com)
+[完整作品集 ↗](https://1298335431-hub.github.io/laobai-Personal-website/)　 [1298335431@qq.com ↗](mailto:1298335431@qq.com)
 
 ## 个人项目
 
@@ -32,9 +32,9 @@
 
 [![03 贴贴 Tietie · AI 图片创作](./assets/tietie-feature.svg)](https://github.com/1298335431-hub/tietie)
 
-**贴贴**让一张照片变成不同风格的作品，再用自然语言修改，整理成可编辑的图文分享内容。
+**贴贴**是一个以图片作品为社交媒介的轻社交产品。用户先选择开源 Skill 完成创作与修改，再通过作品分享和“碰一碰”产生互动。
 
-产品重点：用三种明确的风格降低创作门槛，保留生成之后的选择与修改。
+产品重点：把 Skill 作为创作入口，把图片作品作为社交媒介，串起生成、修改、分享与互动。
 
 [查看源码 ↗](https://github.com/1298335431-hub/tietie)　 [内测体验 ↗](https://sv47l1ha6bddrf233tutq.apigateway-cn-beijing.volceapi.com/) <sub>需邀请码</sub>
 
